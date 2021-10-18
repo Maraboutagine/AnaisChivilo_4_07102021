@@ -366,6 +366,10 @@ a:hover {
 .textitalic{
     font-style: italic;
 }
+.text-center{
+    text-align: center;
+    font-size: 15px;
+}
 
 @media (min-width: 768px) {
     .site-navigation {
